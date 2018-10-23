@@ -1,9 +1,9 @@
 /*----------------------------------------------------------
  *				HTBLA-Leonding / Class: <your class>
  * ---------------------------------------------------------
- * Exercise Number: 0
+ * Exercise Number: 5
  * Title:			Pyramid of Numbers
- * Author:			<your name>
+ * Author:			Wallinger Marc
  * ----------------------------------------------------------
  * Description:
  * Calculates a pyramid of numbers, i.e., it multiplies a big
